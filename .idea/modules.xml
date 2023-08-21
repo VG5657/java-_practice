@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/abstraction-with-classes/abstraction-with-classes.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/abstraction-with-classes/abstraction-with-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/abstration/abstration.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/abstration/abstration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/casting-example/casting-example.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/casting-example/casting-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/constructor-example/constructor-example.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/constructor-example/constructor-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/diamond-problem-solution/diamond-problem-solution.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/diamond-problem-solution/diamond-problem-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/encapsulation-example/encapsulation-example.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/encapsulation-example/encapsulation-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/enum-example/enum-example.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/enum-example/enum-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/exception-examples/exception-examples.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/exception-examples/exception-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/functional-interface/functional-interface.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/functional-interface/functional-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/general-module/general-module.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/general-module/general-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/generics-example/generics-example.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/generics-example/generics-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/immutable-example/immutable-example.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/immutable-example/immutable-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/inner-and-anonymous-classes-examples/inner-and-anonymous-classes-examples.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/inner-and-anonymous-classes-examples/inner-and-anonymous-classes-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/java-optional-examples/java-optional-examples.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/java-optional-examples/java-optional-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_practice.iml" filepath="$PROJECT_DIR$/.idea/java_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/lambda-expression-examples/lambda-expression-examples.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/lambda-expression-examples/lambda-expression-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/loose-coupling-example/loose-coupling-example.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/loose-coupling-example/loose-coupling-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/pass-by-value/pass-by-value.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/pass-by-value/pass-by-value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/streams-example/streams-example.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/streams-example/streams-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/polymorphism/string-example/string-example.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/polymorphism/string-example/string-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/wrapper-classes-examples/wrapper-classes-examples.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/wrapper-classes-examples/wrapper-classes-examples.iml" />
+    </modules>
+  </component>
+</project>
