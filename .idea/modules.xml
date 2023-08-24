@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Stack-example/Stack.iml" filepath="$PROJECT_DIR$/Stack-example/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/abstraction-with-classes/abstraction-with-classes.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/abstraction-with-classes/abstraction-with-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/abstration/abstration.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/abstration/abstration.iml" />
       <module fileurl="file://$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/casting-example/casting-example.iml" filepath="$PROJECT_DIR$/core-java-concepts-main/core-java-concepts-main/casting-example/casting-example.iml" />
